@@ -2662,23 +2662,29 @@ h3 {
   border-color: transparent;
 }
 
-/* line 1, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_bradcam.scss */
 .breadcam_bg {
-  background-image: url(../img/banner/bradcam.png);
+  background-image: url(../img/banner/banner3.png);
+}
+.memberbg {
+  background-image: url(../img/banner/banner3.png);
+}
+.publicationbg {
+  background-image: url(../img/banner/banner4.png);
+}
+.contactbg {
+  background-image: url(../img/banner/banner5.png);
 }
 
-/* line 4, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_bradcam.scss */
 .breadcam_bg_1 {
   background-image: url(../img/banner/bradcam2.png);
 }
 
-/* line 7, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_bradcam.scss */
 .breadcam_bg_2 {
   background-image: url(../img/banner/bradcam3.png);
 }
 
 /* line 10, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_bradcam.scss */
-.bradcam_area {
+.mainbanner {
   background-size: cover;
   background-position: center center;
   text-align: center;
@@ -2687,20 +2693,20 @@ h3 {
 
 @media (max-width: 767px) {
   /* line 10, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_bradcam.scss */
-  .bradcam_area {
+  .mainbanner {
     padding: 170px 0;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 10, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_bradcam.scss */
-  .bradcam_area {
+  .mainbanner {
     padding: 150px 0 150px 0;
   }
 }
 
 /* line 21, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_bradcam.scss */
-.bradcam_area h3 {
+.mainbanner h3 {
   font-size: 70px;
   color: #fff;
   font-weight: 400;
@@ -2711,15 +2717,15 @@ h3 {
 
 @media (max-width: 767px) {
   /* line 21, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_bradcam.scss */
-  .bradcam_area h3 {
+  .mainbanner h3 {
     font-size: 30px;
   }
 }
 
 /* line 1, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-.best_burgers_area {
+.member_area {
   padding-bottom: 115px;
-  padding-top: 140px;
+  padding-top: 40px;
   background-image: url(../img/banner/burger_bg.png);
   background-size: cover;
   background-position: center center;
@@ -2728,20 +2734,20 @@ h3 {
 
 @media (max-width: 767px) {
   /* line 1, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-  .best_burgers_area {
+  .member_area {
     padding-top: 50px;
     padding-bottom: 40px;
   }
 }
 
 /* line 12, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-.best_burgers_area .single_delicious {
+.member_area .single_delicious {
   margin-bottom: 35px;
 }
 
 @media (max-width: 767px) {
   /* line 12, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-  .best_burgers_area .single_delicious {
+  .member_area .single_delicious {
     display: block !important;
     text-align: center;
   }
@@ -2749,33 +2755,33 @@ h3 {
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 12, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-  .best_burgers_area .single_delicious {
+  .member_area .single_delicious {
     display: block !important;
   }
 }
 
 /* line 21, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-.best_burgers_area .single_delicious .thumb {
+.member_area .single_delicious .thumb {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
 
 /* line 23, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-.best_burgers_area .single_delicious .thumb img {
+.member_area .single_delicious .thumb img {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
 
 /* line 27, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-.best_burgers_area .single_delicious .info {
+.member_area .single_delicious .info {
   padding-left: 20px;
 }
 
 @media (max-width: 767px) {
   /* line 27, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-  .best_burgers_area .single_delicious .info {
+  .member_area .single_delicious .info {
     padding-left: 0;
     margin-bottom: 15px;
     margin-top: 20px;
@@ -2784,14 +2790,14 @@ h3 {
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 27, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-  .best_burgers_area .single_delicious .info {
+  .member_area .single_delicious .info {
     padding-left: 0;
     margin-top: 30px;
   }
 }
 
 /* line 38, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-.best_burgers_area .single_delicious .info h3 {
+.member_area .single_delicious .info h3 {
   font-size: 30px;
   color: #1A0D01;
   font-weight: 700;
@@ -2799,7 +2805,7 @@ h3 {
 }
 
 /* line 44, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-.best_burgers_area .single_delicious .info p {
+.member_area .single_delicious .info p {
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
@@ -2810,7 +2816,7 @@ h3 {
 }
 
 /* line 53, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-.best_burgers_area .single_delicious .info span {
+.member_area .single_delicious .info span {
   display: block;
   font-weight: 700;
   font-size: 24px;
@@ -2819,19 +2825,19 @@ h3 {
 }
 
 /* line 62, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-.best_burgers_area .iteam_links {
+.member_area .iteam_links {
   margin-top: 50px;
 }
 
 @media (max-width: 767px) {
   /* line 62, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-  .best_burgers_area .iteam_links {
+  .member_area .iteam_links {
     margin-top: 20px;
   }
 }
 
 /* line 68, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
-.best_burgers_area .iteam_links a {
+.member_area .iteam_links a {
   display: block;
 }
 

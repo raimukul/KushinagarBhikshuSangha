@@ -5,25 +5,31 @@
                         <div class="col-xl-4 col-md-6 col-lg-4">
                             <div class="footer_widget text-center ">
                                 <h3 class="footer_title pos_margin">
-                                        New York
+                                        Kushinagar Bhikshu Sangha
                                 </h3>
-                                <p>5th flora, 700/D kings road, <br> 
-                                        green lane New York-1782 <br>
-                                        <a href="#">info@burger.com</a></p>
-                                <a class="number" href="#">+10 378 483 6782</a>
+                                <p> 
+                                        Myanmar Buddhist Temple, Buddhanagari<br>
+                                        Post & District: Kushinagar-274403 <br>
+                                         Uttar Pradesh (India)
+                                        <a href="mailto:kushinagarbhikshusangh@gmail.com?subject=feedback">kushinagarbhikshusangh@gmail.com</a> 
+                                        </p>
+                                <a class="number" href="#">+919455044309</a>
     
                             </div>
                         </div>
                         <div class="col-xl-4 col-md-6 col-lg-4">
                             <div class="footer_widget text-center ">
                                 <h3 class="footer_title pos_margin">
-                                    California
+                                    Important Link
                                 </h3>
-                                <p>5th flora, 700/D kings road, <br> 
-                                        green lane New York-1782 <br>
-                                        <a href="#">info@burger.com</a></p>
-                                <a class="number" href="#">+10 378 483 6782</a>
-    
+                                <p>Link 1 <br> 
+                                        Link 2<br>
+                                        Link 3 <br>
+                                        Link 4 <br>
+                                        Link 5
+
+                                    </p>
+                                
                             </div>
                         </div>
                         <div class="col-xl-4 col-md-12 col-lg-4">
@@ -35,7 +41,7 @@
                                             <input type="text" placeholder="Enter your mail">
                                             <button type="submit">Sign Up</button>
                                         </form>
-                                        <p class="newsletter_text">Stay connect with us to get exclusive offer!</p>
+                                        <p class="newsletter_text">Stay connect with us!</p>
                                     </div>
                         </div>
                     </div>
@@ -76,8 +82,8 @@
                         <div class="col-xl-12">
                             <p class="copy_right text-center">
                                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
+
                             </p>
                         </div>
                     </div>

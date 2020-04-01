@@ -42,6 +42,16 @@
         </div>
     </div>
     <!-- slider_area_end -->
+    <div class="container mt-2">
+        <div class="card">
+  <h5 class="card-header">Featured</h5>
+  <div class="card-body">
+    <p class="card-text"><b><strong>Kushinagar Bhikshu Sangha</strong></b> is a well known society of Kushinagar, the mahāparinabbāna place of Gautam Buddha. On 18th December 1952, it was established by <b>Ven. Bhikhsu U. Chandramani Mahasthavir</b>, the dhamma master of Baba Saheb Dr. B.R. Ambedkar. It is a registered society under the act of 21-1860 and its registration number is 1772. It is working for the upliftment of Kushinagar and the development of Buddhism since 1952. It is playing very significant role in the field of Buddhism as well as education, health, and society. Many educational, social and religious activities are running under the patronage of Kushinagar Bhikshu Sangha.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+       
+    </div>
 <?php include("footer.php") ;
  ?>
 
